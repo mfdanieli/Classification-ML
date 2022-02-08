@@ -3,5 +3,5 @@
 
 ![Screenshot](image.png)
 
-<img src="relative/path/in/repository/to/image.png" width="128"/>
+<img src="image.png" width="128"/>
 
