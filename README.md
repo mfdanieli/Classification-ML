@@ -68,4 +68,5 @@ The developed model showed reasonable accuracy to identify diabetes, based on he
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mfdanieli/aplication-ml/main/KNN-diabetes-APP.py)
 
-![Banner](imagem2.png)
+
+![image](example-app.png)
