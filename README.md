@@ -66,4 +66,6 @@ The developed model showed reasonable accuracy to identify diabetes, based on he
 
 ***Take a look at an app that I build, where you can input your own data and check in real time the chance to develop diabetes***
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/mfdanieli/aplication-ml/main/KNN-diabetes-APP.py)
+
 
