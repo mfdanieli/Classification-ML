@@ -64,6 +64,6 @@ The developed model showed reasonable accuracy to identify diabetes, based on he
 - Improve model accuracy using k-Fold Cross-Validation, for example.
 
 
-***Take a look at an app where you can input your own data and check in real time the chance to develop diabetes***
+***Take a look at an app that I build, where you can input your own data and check in real time the chance to develop diabetes***
 
 
