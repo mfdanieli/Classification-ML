@@ -50,7 +50,7 @@ Predict if a pacient has diabetes.
 ### 4. Business implications
 - The model can be useful in assisting a doctor to investigate whether a person has diabetes and which is the best treatment in two ways:
     - It can help to decide if a simple blood glucose meter or a more sophisticated test (and therefore more expensive) would be necessary. 
-    - Increase early detection.
+    - Increase early detection and awareness.
       > People with diagnosed diabetes incur average medical expenditures of $16752 per year ([ADA, 2018](https://www.diabetes.org/about-us/statistics/cost-diabetes)). Medical care for prediabetes, on the other hand, costs $500 annually per person ([AMA, 2019](https://www.ama-assn.org/delivering-care/diabetes/how-prediabetes-exacts-43-billion-toll-us-economy#:~:text=On%20average%2C%20prediabetes%20costs%20%24500,person%20in%20medical%20costs%20only.)).
         
 ### 5. Conclusions
