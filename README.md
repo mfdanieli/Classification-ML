@@ -60,7 +60,7 @@ The developed model showed reasonable accuracy to identify diabetes, based on he
 
 ### 6. Suggestions for further steps
 - Select only those features with higher impact on developing diabetes:
-    - This might reduce the number of exams (therefore, costs), since not all risk factors would be significant enough. Other classification machine learning techniques (e. g. decion trees) could be applied.
+    - This might reduce the number of exams (therefore, costs), since not all risk factors would be significant enough. Other classification machine learning techniques (e. g. decision trees) could be applied.
 - Improve model accuracy using k-Fold Cross-Validation, for example.
 
 
