@@ -1,4 +1,4 @@
-![Banner](imagem2.png)
+![Banner](imagem.png)
 
 ## Predict diabetes according to risk factors
 
