@@ -7,7 +7,7 @@
 - *What is the goal?* 
 Predict if a pacient has diabetes.
  
-- *How will this question be investigated?* Train and test the KNN model to associate risk factors and diabetes, using the [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+- *How will this question be investigated?* Train and test the KNN model to associate risk factors and diabetes, using the [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
 - *Why is this subjetc important?* 
 
