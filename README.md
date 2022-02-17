@@ -31,7 +31,7 @@ Predict if a pacient has diabetes.
     - summarize main characteristics of the data, gain better understanding of relashionships and extract important variables
 - Standardize the variables: important to garantee proper scales
 - Machine learning model training and testing: KNN model
-- Select optimal "k value through the elbow method
+- Select optimal *k* value through the elbow method
 - Evaluate model performance and its implications
 
 ### 3. Highligths of the results
