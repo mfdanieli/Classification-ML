@@ -31,6 +31,7 @@ Predict if a pacient has diabetes.
     - summarize main characteristics of the data, gain better understanding of relashionships and extract important variables
 - Standardize the variables: important to garantee proper scales
 - Machine learning model training and testing: KNN model
+    > KNN stands for K-Nearest Neighbours. It is a machine learning method in which a data point is classified based on similarity.
 - Select optimal *k* value through the elbow method
 - Evaluate model performance and its implications
 
@@ -43,11 +44,11 @@ Predict if a pacient has diabetes.
     - People with higher BMI and skin thickness have the tendecy to develop diabetes.
 - *Model performance*
     - Model accuracy is 75%.
-      > For comparison,  24% of participants in a recent [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6640891/#:~:text=Twenty%2Dfour%20percent%20of%20participants,137.2%2C%20P%20%3C0.001) reported being misdiagnosed with another condition before being diagnosed with type 1 diabetes.    
+      > For comparison, 24% of participants in a recent [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6640891/#:~:text=Twenty%2Dfour%20percent%20of%20participants,137.2%2C%20P%20%3C0.001) reported being misdiagnosed with another condition before being diagnosed with type 1 diabetes.    
     - false negatives are 8% in the test dataset.
       > In diagnosis prediction, it is important to minimize false negatives, even if false positives are increased. This means that is preferable a model that says a person has diabetes (and in reality it is not true), other than a model that misses real positive diagnoses. 
 
-### 4. Business implications
+### 4. Economic implications
 - The model can be useful in assisting a doctor to investigate whether a person has diabetes and which is the best treatment in two ways:
     - It can help to decide if a simple blood glucose meter or a more sophisticated test (and therefore more expensive) would be necessary. 
     - Increase early detection and awareness.
