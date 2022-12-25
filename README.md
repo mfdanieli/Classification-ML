@@ -17,7 +17,7 @@ Predict if a pacient has diabetes.
 
   3. Diabetes tests can cost up to $29 in India ([Patra, 2021](https://www.breathewellbeing.in/blog/list-of-diabetes-test-blood-glucose-level-normal-values-procedure-cost/)). These costs can add up, since these tests often are retaken before a final diagnosis.
 
-- *Hypothesis:* Diabetes can be diagnosed based on risk factors trhough modeling, reducing costs of exams and increasing diabetes identification among the population.
+- *Hypothesis:* Diabetes can be diagnosed based on risk factors through modeling, reducing costs of exams and increasing diabetes identification among the population.
 
  - *Data Science skills and tools:* data exploration, wrangling, and visualization, machine learning (libraries pandas, numpy, matplotlib, seaborn, and sklearn).
 
